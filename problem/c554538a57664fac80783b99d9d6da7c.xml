@@ -1,4 +1,4 @@
-<problem max_attempts="" weight="" display_name="Pointing on a Picture" rerandomize="never" showanswer="always">
+<problem max_attempts="null" weight="null" display_name="Pointing on a Picture" rerandomize="never" showanswer="always">
   <p>
 Some course questions may show you an image and ask that you click on it to answer a question. Try this example. (If you are correct you will see our famous green check mark.)
 </p>
