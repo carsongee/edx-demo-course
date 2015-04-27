@@ -1,4 +1,4 @@
-<vertical display_name="Combined Assessment" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@machine_grading" index_in_children_list="4">
+<vertical display_name="Combined Assessment" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@machine_grading" parent_sequential_url="i4x://MITx/0.01/sequential/machine_grading" index_in_children_list="4">
   <html url_name="3b1cef2e994541b1a5d91eaee7035935"/>
   <combinedopenended url_name="1c055f72c03641149f2801ea1416ac50"/>
   <discussion url_name="935165af38274b088edae0846e810a07"/>

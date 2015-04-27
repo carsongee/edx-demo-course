@@ -1,4 +1,4 @@
-<vertical display_name="Randomized Questions" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@workflow" index_in_children_list="5">
+<vertical display_name="Randomized Questions" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@workflow" parent_sequential_url="i4x://MITx/0.01/sequential/workflow" index_in_children_list="5">
   <problem url_name="ex_practice_3"/>
   <discussion url_name="ddede76df71045ffa16de9d1481d2119"/>
 </vertical>

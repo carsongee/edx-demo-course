@@ -1,4 +1,4 @@
-<vertical display_name="Discussion Forums" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@48ecb924d7fe4b66a230137626bfa93e" index_in_children_list="1">
+<vertical display_name="Discussion Forums" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@48ecb924d7fe4b66a230137626bfa93e" parent_sequential_url="i4x://MITx/0.01/sequential/48ecb924d7fe4b66a230137626bfa93e" index_in_children_list="1">
   <html url_name="html_49b4494da2f7"/>
   <discussion url_name="discussion_5deb6081620d"/>
 </vertical>

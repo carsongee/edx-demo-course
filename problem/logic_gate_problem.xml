@@ -1,4 +1,4 @@
-<problem display_name="" graceperiod="18000 seconds" markdown="null" rerandomize="never" showanswer="always" start="&quot;2013-02-05T00:00:00+00:00&quot;" xqa_key="qaijS3UatK020Wc0sfCtFe0V6jpB4d64">
+<problem display_name="" graceperiod="18000 seconds" markdown="null" rerandomize="never" showanswer="always" start="2013-02-05T00:00:00Z" xqa_key="qaijS3UatK020Wc0sfCtFe0V6jpB4d64">
   <startouttext/>
   <p>Many problems in real courses that use the schematic editor will have an initial position and question that you shold design a solution for. It will accept any of many correct solutions that solve its requirements.</p>
   <p> The following problem statement is contained within 6.002x: Circuits and Electronics.</p>

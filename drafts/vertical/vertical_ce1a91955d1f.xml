@@ -1,4 +1,4 @@
-<vertical display_name="Feedback and AI-&quot;Graded&quot; Essays" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@machine_grading" index_in_children_list="2">
+<vertical display_name="Feedback and AI-&quot;Graded&quot; Essays" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@machine_grading" parent_sequential_url="i4x://MITx/0.01/sequential/machine_grading" index_in_children_list="2">
   <html url_name="11da3c14e9bc426c879d8c780f9f252a"/>
   <combinedopenended url_name="Humanities_SA_ML"/>
   <discussion url_name="26bd4a1019be45bca5b04f3cfd4751a5"/>

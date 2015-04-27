@@ -1,4 +1,4 @@
-<vertical display_name="Immediate Feedback" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@workflow" index_in_children_list="1">
+<vertical display_name="Immediate Feedback" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@workflow" parent_sequential_url="i4x://MITx/0.01/sequential/workflow" index_in_children_list="1">
   <problem url_name="ex_practice_2"/>
   <discussion url_name="4aba537a78774bd5a862485a8563c345"/>
 </vertical>

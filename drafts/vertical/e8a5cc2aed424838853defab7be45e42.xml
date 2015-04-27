@@ -1,4 +1,4 @@
-<vertical display_name="Text input" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@basic_questions" index_in_children_list="6">
+<vertical display_name="Text input" parent_url="block-v1:MITx+0.01+2015-T2+type@sequential+block@basic_questions" parent_sequential_url="i4x://MITx/0.01/sequential/basic_questions" index_in_children_list="6">
   <problem url_name="0d759dee4f9d459c8956136dbde55f02"/>
   <discussion url_name="6244918637ed4ff4b5f94a840a7e4b43"/>
 </vertical>
